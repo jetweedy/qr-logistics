@@ -1,0 +1,135 @@
+Policy Brief: Digital Age-Verified Speed Pass Pilot for North Carolina
+The Problem
+
+NC venues, bars, and festivals must manually inspect physical IDs for alcohol sales and 21+ entry.
+
+Manual checks cause slow lines, rely heavily on staff judgment, and allow fake IDs to slip through.
+
+Venues face serious penalties if underage patrons are admitted.
+
+Patrons increasingly expect digital, mobile-first options.
+
+The Proposal
+
+Authorize a Digital Age-Verified Speed Pass Pilot in which:
+
+Users: Register once through a secure identity verification process (approved vendor + DMV data).
+
+Pass: Receive a QR code tied to a verified selfie and date of birth.
+
+At the gate: Staff scan the QR, see the verified selfie + green/red age result, and visually compare the photo to the patron.
+
+Compliance: Staff may request a physical ID at any time; random spot checks included.
+
+Key Principles
+
+Physical ID remains valid — venues are required to accept licenses, passports, and military IDs.
+
+Digital pass is optional — an express lane for faster entry, not a replacement.
+
+Privacy by design — no SSNs or license numbers stored; only a selfie and verified DOB.
+
+Audit trail — every scan is logged, giving regulators stronger evidence of compliance.
+
+Benefits
+
+For venues: Faster throughput, fewer fake IDs, reduced liability.
+
+For patrons: Convenience, no fumbling with IDs, modern user experience.
+
+For regulators: Stronger compliance evidence, better enforcement tools.
+
+For NC: Potential new revenue stream — DMV could license API access (e.g., $5/year/user → $5M+ if 1M residents opt in).
+
+Pilot Program
+
+Partner with 1–2 NC venues for a 90-day trial.
+
+Collect data on speed, compliance, and user satisfaction.
+
+Report back to NC ABC Commission, DMV, and ALE.
+
+Legislative Ask
+
+Authorize a Digital Age Verification Pilot under NC ABC law.
+
+Allow DMV to provide secure API verification of DOB + photo match for approved vendors.
+
+Require physical ID acceptance remain mandatory.
+
+Evaluate pilot results after 12 months for possible statewide adoption.
+
+📌 Bottom Line: This pilot is a safe, revenue-positive innovation that strengthens compliance, modernizes patron experience, and positions North Carolina as a national leader in digital ID adoption.
+
+
+
+---------------
+
+
+
+📑 Digital Age-Verified Speed Pass Pilot
+Stronger Compliance • Faster Lines • New Revenue for NC
+⚖️ The Problem
+
+Venues must manually inspect physical IDs for 21+ entry and alcohol sales.
+
+Slow and subjective: lines are long, staff judgment varies, fake IDs slip through.
+
+Compliance risk: underage admissions expose venues to fines, license suspensions, and liability.
+
+Lost opportunity: NC could lead on digital ID but is behind other states moving toward mobile driver’s licenses.
+
+💡 The Proposal
+
+Authorize a Digital Age-Verified Speed Pass Pilot under NC ABC law.
+
+Patrons pre-verify once through an approved ID verification vendor (with DMV data support).
+
+They get a QR code pass tied to a verified selfie + DOB.
+
+At the gate: staff scan → see verified photo + green/red age status → quick visual match.
+
+Physical IDs remain valid and must be accepted — this is supplemental, not a replacement.
+
+🔒 Compliance & Security
+
+Meets existing law: staff retain authority to request physical ID at any time.
+
+Audit trails: each scan is logged (timestamp, token, device ID) for enforcement review.
+
+Privacy-by-design: no SSNs or license numbers stored; only verified photo + yes/no shared.
+
+Spot checks: random physical ID checks built into the pilot to ensure compliance.
+
+💰 Benefits to North Carolina
+
+For regulators: Stronger enforcement evidence, fewer fake IDs, improved compliance.
+
+For venues: Faster entry, happier customers, reduced liability.
+
+For patrons: Convenience, less waiting, safer nightlife.
+
+For NC government:
+
+Licensing fees for verification API access.
+
+Example: $5/user/year × 1M users = $5M+ annual revenue stream.
+
+Positions NC as a national leader in digital ID innovation.
+
+🛠 Pilot Program
+
+Duration: 12 months.
+
+Scope: 1–2 partner venues (concert hall, festival).
+
+Evaluation: throughput speed, compliance incidents, user/staff satisfaction.
+
+Report back: to NC ABC, DMV, and ALE for consideration of expansion.
+
+📌 Bottom Line:
+This pilot is a low-risk, revenue-positive innovation. It strengthens compliance, modernizes patron experience, and positions North Carolina as a leader in digital identity adoption — while keeping physical IDs mandatory and valid.
+
+
+
+
